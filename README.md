@@ -1,2 +1,2 @@
-# dyno
+# DyLo
 the project code
