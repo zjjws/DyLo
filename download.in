@@ -1,3 +1,11 @@
+facebook.tar.gz
+facebook_combined.txt.gz
+gplus.tar.gz
+gplus_combined.txt.gz
+twitter.tar.gz
+twitter_combined.txt.gz
+soc-Epinions1.txt.gz
+soc-LiveJournal1.txt.gz
 soc-pokec-profiles.txt.gz
 soc-pokec-readme.txt
 Slashdot0811.txt.gz
@@ -8,4 +16,3 @@ gemsec_deezer_dataset.tar.gz
 gemsec_facebook_dataset.tar.gz
 soc-redditHyperlinks-body.tsv
 soc-redditHyperlinks-title.tsv
-0518Jjx@
