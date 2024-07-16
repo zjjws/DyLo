@@ -56,12 +56,13 @@ string name;
 string st1="curl https://snap.stanford.edu/data/";
 string st2=" --output ";
 string tst="cd ..";
+string st3="data/";
 int main()
 {
     FILE *f=fopen("download.in","r");
     for(rin.rin(name,f);name.size()>0;rin.rin(name,f))
     {
-        system((st1+name+st2+name).c_str());
+        system((st1+name+st2+st3+name).c_str());
         // system(tst.c_str());
     }
 }
