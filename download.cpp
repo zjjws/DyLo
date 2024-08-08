@@ -65,6 +65,7 @@ int main()
         system((st1+name+st2+st3+name).c_str());
         // system(tst.c_str());
     }
+    return 0;
 }
 /*
 gcc download.cpp -o download
