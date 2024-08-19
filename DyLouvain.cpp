@@ -435,7 +435,6 @@ int main()
 /*
 ssh jxjian@faith
 ssh -i C:\Users\DELL\.ssh\JJ.pem ubuntu@18.140.198.138 
-ssh -i JJ.pem ubuntu@18.140.198.138 
 ssh -i C:\Users\DELL\.ssh\ZJJ.pem ubuntu@18.246.42.159
 scp "D:\code\lab\DynaMo\data\gplus_renumber.txt" csr32:/home/comp/jxjian/zjj/DyLo/gen-louvain
 scp "D:\code\lab\JJ.pem" jxjian@faith:/u/pg1/jxjian/zjj
